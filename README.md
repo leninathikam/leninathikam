@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Lenin+Goud+Athikam;Data+Science+%7C+ML+Enthusiast;Open+Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,jupyter,html,css,js,docker,aws,opencv,spark,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter,html,css,js,docker,aws,opencv,spark,github,git)](https://skillicons.dev)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leninathikam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)

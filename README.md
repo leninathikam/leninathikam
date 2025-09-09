@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=leninathikam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/athikam=lenin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/athikam-lenin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:leningoudzzz@gmail,com)
 
 

@@ -23,3 +23,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leninathikam&repo=big-data-analytics_project&theme=radical)](https://github.com/leninathikam/big-data-analytics_project)
 
  
+## 🌐 Check out my personal portfolio!
+[![Portfolio](https://img.shields.io/badge/Website-leningoud.netlify.app-38C2FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://leningoud.netlify.app/)

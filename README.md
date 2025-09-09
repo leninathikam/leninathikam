@@ -24,4 +24,4 @@
 
  
 ## 🌐 Check out my personal portfolio!
-[![Portfolio](https://img.shields.io/badge/Website-leningoud.netlify.app-38C2FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://leningoud.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Website-leningoud.Athikam-38C2FF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://leningoud.netlify.app/)

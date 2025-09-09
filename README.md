@@ -11,7 +11,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,jupyter,html,css,js,docker,aws,opencv,spark,github,git)](https://skillicons.dev)
 
-![snake gif](https://github.com/leninathikam/leninathikam/blob/output/github-contribution-grid-snake.svg)  #1
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leninathikam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 

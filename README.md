@@ -1,20 +1,23 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Lenin+Goud+Athikam;Data+Science+%7C+ML+Enthusiast;Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Lenin+Goud+Athikam;Data+Science+%7C+ML+Enthusiast;Open+Source+Contributor+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Replaced GitHub Stats with stable badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leninathikam&show_icons=true&theme=radical" />
+  <img src="https://img.shields.io/github/followers/leninathikam?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/leninathikam?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=leninathikam&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
+<!-- Replaced Top Languages card with a shields badge -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leninathikam&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/github/languages/top/leninathikam/spotify-hybrid-recommender-system?label=Top%20Language&style=for-the-badge" />
 </p>
 
 <p align="center">

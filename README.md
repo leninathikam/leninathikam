@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/leninathikam?label=Followers&style=for-the-badge&logo=github" />
+  
   <img src="https://img.shields.io/github/stars/leninathikam?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Resume-PDF-38C2FF?style=for-the-badge&logo=adobe" />
+
   <a href="https://leningoud.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Lenin%20Athikam-38C2FF?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
@@ -27,9 +27,6 @@
 ### 👨‍💻 About Me
 I transform raw data into actionable insights using Python, SQL, and machine learning. I build reproducible ML pipelines, deploy models, and create clean visualizations for stakeholders. Currently focused on deep learning and agentic AI research.
 
-- Automated data cleaning pipelines — saved 20+ hours/month
-- Dashboards used by 50+ users
-- Published 5+ projects on GitHub
 
 ### 🚀 Pinned Projects
 <p align="center">

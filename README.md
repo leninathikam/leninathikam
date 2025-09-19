@@ -46,10 +46,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/leninathikam/swiggy-delivery-time-prediction">
+  <a href="https://github.com/leninathikam/spotify-hybrid-recommender-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leninathikam&repo=spotify-hybrid-recommender-system&theme=radical" />
   </a>
-  <a href="https://github.com/leninathikam/big-data-analytics_project">
+  <a href="https://github.com/leninathikam/swiggy-delivery-time-prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leninathikam&repo= swiggy-delivery-time-prediction&theme=radical" />
   </a>
 </p>
